@@ -1,0 +1,40 @@
+.contentBlock {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 250px;
+    padding-bottom: 100px;
+}
+
+div#intro {
+    color: var(--light-text)
+}
+div#intro h1 {
+    font-size: 5ch;
+    
+}
+
+.intro-paragraph {
+    width: 500px;
+    color: var(--text);
+    line-height: 2.5ch;
+}
+
+.green {
+    color: var(--green);
+}
+
+div#footer {
+    height:50px;
+    margin-top: 150px;
+}
+
+div#footer p {
+    color: var(--light-text);
+    font-size: 1.5ch;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.75ch;
+    color: var(--light-text);
+}
